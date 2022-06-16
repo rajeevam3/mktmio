@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mktmio/static/css/main.cc834c8a.chunk.css",
-    "main.js": "/mktmio/static/js/main.4426b309.chunk.js",
-    "main.js.map": "/mktmio/static/js/main.4426b309.chunk.js.map",
+    "main.css": "/mktmio/static/css/main.d0c56f19.chunk.css",
+    "main.js": "/mktmio/static/js/main.28b55331.chunk.js",
+    "main.js.map": "/mktmio/static/js/main.28b55331.chunk.js.map",
     "runtime-main.js": "/mktmio/static/js/runtime-main.b3b92364.js",
     "runtime-main.js.map": "/mktmio/static/js/runtime-main.b3b92364.js.map",
-    "static/js/2.1ee9c20c.chunk.js": "/mktmio/static/js/2.1ee9c20c.chunk.js",
-    "static/js/2.1ee9c20c.chunk.js.map": "/mktmio/static/js/2.1ee9c20c.chunk.js.map",
+    "static/js/2.10ae81a6.chunk.js": "/mktmio/static/js/2.10ae81a6.chunk.js",
+    "static/js/2.10ae81a6.chunk.js.map": "/mktmio/static/js/2.10ae81a6.chunk.js.map",
     "index.html": "/mktmio/index.html",
-    "static/css/main.cc834c8a.chunk.css.map": "/mktmio/static/css/main.cc834c8a.chunk.css.map",
-    "static/js/2.1ee9c20c.chunk.js.LICENSE.txt": "/mktmio/static/js/2.1ee9c20c.chunk.js.LICENSE.txt",
+    "static/css/main.d0c56f19.chunk.css.map": "/mktmio/static/css/main.d0c56f19.chunk.css.map",
+    "static/js/2.10ae81a6.chunk.js.LICENSE.txt": "/mktmio/static/js/2.10ae81a6.chunk.js.LICENSE.txt",
     "static/media/ai.d400741e.png": "/mktmio/static/media/ai.d400741e.png",
     "static/media/blog01.cefc0932.png": "/mktmio/static/media/blog01.cefc0932.png",
     "static/media/blog02.ab0eb367.png": "/mktmio/static/media/blog02.ab0eb367.png",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b3b92364.js",
-    "static/js/2.1ee9c20c.chunk.js",
-    "static/css/main.cc834c8a.chunk.css",
-    "static/js/main.4426b309.chunk.js"
+    "static/js/2.10ae81a6.chunk.js",
+    "static/css/main.d0c56f19.chunk.css",
+    "static/js/main.28b55331.chunk.js"
   ]
 }
