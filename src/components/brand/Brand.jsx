@@ -1,6 +1,6 @@
 import React from 'react';
 // import { google, slack, atlassian, dropbox, shopify } from './imports';
-import { stkr, stin, test, nas10k } from './imports';
+import { stkr, stin, elev, nas10k, inno } from './imports';
 import './brand.css';
 
 const Brand = () => (
@@ -12,26 +12,14 @@ const Brand = () => (
       <img src={stin} />
     </div>
     <div>
-      <img src={test} />
+      <img src={elev} />
     </div>
     <div>
       <img src={nas10k} />
     </div>
-    {/* <div>
-      <img src={google} />
-    </div>
     <div>
-      <img src={slack} />
+      <img src={inno} />
     </div>
-    <div>
-      <img src={atlassian} />
-    </div>
-    <div>
-      <img src={dropbox} />
-    </div>
-    <div>
-      <img src={shopify} />
-    </div> */}
   </div>
 );
 
