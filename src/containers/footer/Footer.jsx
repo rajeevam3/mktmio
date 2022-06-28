@@ -27,7 +27,7 @@ const Footer = () => (
         {/* <h4>Get in touch</h4>
         <p>Crechterwoord K12 182 DK Alknjkcb</p> */}
         <p>+91-8105646516</p>
-        <p>gm@mktm.io</p>
+        <p>gm@bnglr.io</p>
       </div>
     </div>
 

@@ -11,8 +11,8 @@ const App = () => (
     <Helmet>
       <meta charSet="utf-8" />
       <title>BNGLR</title>
-      <link rel="canonical" href="http://mktm.io" />
-      <meta name="description" content="MKTM application" />
+      <link rel="canonical" href="http://bnglr.io" />
+      <meta name="description" content="BNGLR application" />
     </Helmet>
     <div className="gradient__bg">
       <Navbar />
