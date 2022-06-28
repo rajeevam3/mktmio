@@ -10,7 +10,7 @@ const App = () => (
   <div className="App">
     <Helmet>
       <meta charSet="utf-8" />
-      <title>MKTM</title>
+      <title>BNGLR</title>
       <link rel="canonical" href="http://mktm.io" />
       <meta name="description" content="MKTM application" />
     </Helmet>

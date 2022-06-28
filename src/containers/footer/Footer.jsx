@@ -1,5 +1,5 @@
 import React from 'react';
-import gpt3Logo from '../../logo.svg';
+import gpt3Logo from '../../logoWhite.svg';
 import './footer.css';
 
 const Footer = () => (
@@ -32,7 +32,7 @@ const Footer = () => (
     </div>
 
     <div className="gpt3__footer-copyright">
-      <p>@2022 MKTM Studios. All rights reserved.</p>
+      <p>@2022 BNGLR Studios. All rights reserved.</p>
     </div>
   </div>
 );
