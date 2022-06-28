@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mktmio/static/css/main.d0c56f19.chunk.css",
-    "main.js": "/mktmio/static/js/main.6e841ef1.chunk.js",
-    "main.js.map": "/mktmio/static/js/main.6e841ef1.chunk.js.map",
+    "main.js": "/mktmio/static/js/main.e3b3fc51.chunk.js",
+    "main.js.map": "/mktmio/static/js/main.e3b3fc51.chunk.js.map",
     "runtime-main.js": "/mktmio/static/js/runtime-main.b3b92364.js",
     "runtime-main.js.map": "/mktmio/static/js/runtime-main.b3b92364.js.map",
     "static/js/2.10ae81a6.chunk.js": "/mktmio/static/js/2.10ae81a6.chunk.js",
@@ -16,13 +16,14 @@
     "static/media/blog03.d9223238.png": "/mktmio/static/media/blog03.d9223238.png",
     "static/media/blog04.742c1357.png": "/mktmio/static/media/blog04.742c1357.png",
     "static/media/blog05.bfaa1c1e.png": "/mktmio/static/media/blog05.bfaa1c1e.png",
-    "static/media/logo.0c654a42.svg": "/mktmio/static/media/logo.0c654a42.svg",
+    "static/media/logo.e34759b5.svg": "/mktmio/static/media/logo.e34759b5.svg",
+    "static/media/logoWhite.100dfbf5.svg": "/mktmio/static/media/logoWhite.100dfbf5.svg",
     "static/media/possibility.2b383282.png": "/mktmio/static/media/possibility.2b383282.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b3b92364.js",
     "static/js/2.10ae81a6.chunk.js",
     "static/css/main.d0c56f19.chunk.css",
-    "static/js/main.6e841ef1.chunk.js"
+    "static/js/main.e3b3fc51.chunk.js"
   ]
 }
